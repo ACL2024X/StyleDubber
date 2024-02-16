@@ -1,5 +1,12 @@
 # StyleDubber Towards Multi-Scale Style Learning for Movie Dubbing
 
+[Result of Setting1](#Setting1)
+
+[Result of Setting2](#Setting2)
+
+[Result of Setting3](#Setting3)
+
+<a id="Setting1"></a>
 ### The V2C Setting1 Results
 
 Text: "Yes, I'm the baby Jesus"
@@ -21,7 +28,7 @@ StyleDubber | Ground Truth
 ------------|--------------
 <video controls src="video_setting1/StyleDubber.mp4" title="Title"></video>|<video controls src="video_setting1/GT.mp4" title="Title"></video>
 
-
+<a id="Setting2"></a>
 ### The Grid Setting2 Results
 
 Text: "place red with m eight now"
@@ -71,7 +78,7 @@ StyleDubber | Ground Truth
 ------------|--------------
 <video controls src="Setting2_V2C/StyleDubber.mp4" title="Title"></video>|<video controls src="Setting2_V2C/GT.mp4" title="Title"></video>
 
-
+<a id="Setting3"></a>
 ### The V2C Setting3 Results (male2female)
 
 Text: "It's a lot of responsibility."
