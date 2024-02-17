@@ -80,7 +80,7 @@ Our StyleDubber | Ground Truth
 
 <a id="Setting3"></a>
 
-### The V2C Animation Setting3 Results (male2female)
+### The V2C Animation Setting3 Results (Male voice actors dubbing female characters)
 
 Text: "It's a lot of responsibility."
 **(Please slide left or right)**
@@ -101,7 +101,7 @@ Our StyleDubber | HPMDubbing
 ------------|--------------
 <video controls src="1——Setting3_V2C_1_male_to_female/StyleDubber.mp4" title="Title"></video>|<video controls src="1——Setting3_V2C_1_male_to_female/HPMDUbbing.mp4" title="Title"></video>
 
-### The V2C Animation Setting3 Results (male2male)
+### The V2C Animation Setting3 Results (Male voice actors dubbing male characters)
 
 Text: "I can't help. I can't help anyone."
 **(Please slide left or right)**
@@ -123,7 +123,7 @@ Our StyleDubber | HPMDubbing
 ------------|--------------
 <video controls src="2——Setting3_V2C_1_male_to_male/StyleDubber.mp4" title="Title"></video>| <video controls src="2——Setting3_V2C_1_male_to_male/HPMDubbing.mp4" title="Title"></video>
 
-### The V2C Animation Setting3 Results (female2male)
+### The V2C Animation Setting3 Results (Female voice actors dubbing male characters)
 
 Text: "I thought you would understand."
 **(Please slide left or right)**
