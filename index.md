@@ -7,7 +7,7 @@
 [Result of Dubbing Setting3](#Setting3)
 
 <a id="Setting1"></a>
-### The V2C Setting1 Results
+### The V2C Animation Setting1 Results
 
 Text: "Yes, I'm the baby Jesus"
 **(Please slide left or right)**
@@ -24,12 +24,12 @@ V2C-Net | HPMDubbing
 ------------|--------------
 <video controls src="video_setting1/V2C-Net.mp4" title="Title"></video>|<video controls src="video_setting1/HPMDubbing.mp4" title="Title"></video>
 
-StyleDubber | Ground Truth
+Our StyleDubber | Ground Truth
 ------------|--------------
 <video controls src="video_setting1/StyleDubber.mp4" title="Title"></video>|<video controls src="video_setting1/GT.mp4" title="Title"></video>
 
 <a id="Setting2"></a>
-### The Grid Setting2 Results
+### The GRID Setting2 Results
 
 Text: "place red with m eight now"
 **(Please slide left or right)**
@@ -50,11 +50,11 @@ V2C-Net | HPMDubbing
 ------------|--------------
 <video controls src="Setting2_Grid/V2C-Net.mp4" title="Title"></video>|<video controls src="Setting2_Grid/HPMDubbing.mp4" title="Title"></video>
 
-StyleDubber | Ground Truth
+Our StyleDubber | Ground Truth
 ------------|--------------
 <video controls src="Setting2_Grid/StyleDubber.mp4" title="Title"></video>|<video controls src="Setting2_Grid/GT.mp4" title="Title"></video>
 
-### The V2C Setting2 Results
+### The V2C Animation Setting2 Results
 
 Text: "You are not responsible for their choices, elsa."
 **(Please slide left or right)**
@@ -74,12 +74,13 @@ V2C-Net | HPMDubbing
 ------------|--------------
 <video controls src="Setting2_V2C/V2C_Net.mp4" title="Title"></video>|<video controls src="Setting2_V2C/HPMDubbing.mp4" title="Title"></video>
 
-StyleDubber | Ground Truth
+Our StyleDubber | Ground Truth
 ------------|--------------
 <video controls src="Setting2_V2C/StyleDubber.mp4" title="Title"></video>|<video controls src="Setting2_V2C/GT.mp4" title="Title"></video>
 
 <a id="Setting3"></a>
-### The V2C Setting3 Results (male2female)
+
+### The V2C Animation Setting3 Results (male2female)
 
 Text: "It's a lot of responsibility."
 **(Please slide left or right)**
@@ -95,11 +96,12 @@ Face-TTS | Zeroshot-TTS
 V2C-Net | FastSpeech2
 ------------|--------------
 <video controls src="1——Setting3_V2C_1_male_to_female/V2C-Net.mp4" title="Title"></video>|<video controls src="1——Setting3_V2C_1_male_to_female/FS2.mp4" title="Title"></video>
-HPMDubbing | StyleDubber
-------------|--------------
-<video controls src="1——Setting3_V2C_1_male_to_female/HPMDUbbing.mp4" title="Title"></video>|<video controls src="1——Setting3_V2C_1_male_to_female/StyleDubber.mp4" title="Title"></video>
 
-### The V2C Setting3 Results (male2male)
+Our StyleDubber | HPMDubbing
+------------|--------------
+<video controls src="1——Setting3_V2C_1_male_to_female/StyleDubber.mp4" title="Title"></video>|<video controls src="1——Setting3_V2C_1_male_to_female/HPMDUbbing.mp4" title="Title"></video>
+
+### The V2C Animation Setting3 Results (male2male)
 
 Text: "I can't help. I can't help anyone."
 **(Please slide left or right)**
@@ -116,11 +118,12 @@ V2C-Net | FastSpeech2
 ------------|--------------
 <video controls src="2——Setting3_V2C_1_male_to_male/V2C_Net.mp4" title="Title"></video>|<video controls src="2——Setting3_V2C_1_male_to_male/FS2.mp4" title="Title"></video>
 
-HPMDubbing | StyleDubber
-------------|--------------
-<video controls src="2——Setting3_V2C_1_male_to_male/HPMDubbing.mp4" title="Title"></video>|<video controls src="2——Setting3_V2C_1_male_to_male/StyleDubber.mp4" title="Title"></video>
 
-### The V2C Setting3 Results (female2male)
+Our StyleDubber | HPMDubbing
+------------|--------------
+<video controls src="2——Setting3_V2C_1_male_to_male/StyleDubber.mp4" title="Title"></video>| <video controls src="2——Setting3_V2C_1_male_to_male/HPMDubbing.mp4" title="Title"></video>
+
+### The V2C Animation Setting3 Results (female2male)
 
 Text: "I thought you would understand."
 **(Please slide left or right)**
@@ -137,6 +140,6 @@ V2C-Net | FastSpeech2
 ------------|--------------
 <video controls src="3——Setting3_V2C_1_female_to_male/V2C_Net.mp4" title="Title"></video>|<video controls src="3——Setting3_V2C_1_female_to_male/FS2.mp4" title="Title"></video>
 
-HPMDubbing | StyleDubber
+Our StyleDubber | HPMDubbing 
 ------------|--------------
-<video controls src="3——Setting3_V2C_1_female_to_male/HPMDubbing.mp4" title="Title"></video>|<video controls src="3——Setting3_V2C_1_female_to_male/StyleDubber.mp4" title="Title"></video>
+<video controls src="3——Setting3_V2C_1_female_to_male/StyleDubber.mp4" title="Title"></video>| <video controls src="3——Setting3_V2C_1_female_to_male/HPMDubbing.mp4" title="Title"></video>
