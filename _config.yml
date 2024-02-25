@@ -2,4 +2,6 @@
 theme: jekyll-theme-cayman
 title: StyleDubber Towards Multi-Scale Style Learning for Movie Dubbing
 description: The official examples and supplement materials of article "StyleDubber Towards Multi-Scale Style Learning for Movie Dubbing"
+github:
+  is_project_page: false
 
