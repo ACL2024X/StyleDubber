@@ -161,8 +161,10 @@ Reference
 Text: "You are not responsible for their choices, elsa."
 **(Please slide left or right)**
 
-Reference
-<video controls src="Setting2_V2C/Who_is_Reference_Audio/Anna.mp4" title="Title"></video>
+<video width="320" height="140" controls>
+  <source src="Setting2_V2C/Who_is_Reference_Audio/Anna.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <table border="1">
     <tr>
@@ -236,7 +238,10 @@ Text: "It's a lot of responsibility."
 
 Raw Dubbing Video 
 
-<video controls src="1——Setting3_V2C_1_male_to_female/Dubbing_Video_Raw/DragonII.mp4" title="Title"></video>
+<video width="320" height="140" controls>
+  <source src="1——Setting3_V2C_1_male_to_female/Dubbing_Video_Raw/DragonII.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Reference
 
@@ -298,7 +303,10 @@ Text: "I can't help. I can't help anyone."
 
 Raw Dubbing Video 
 
-<video controls src="2——Setting3_V2C_1_male_to_male/Dubbing_Video_Raw/Toy@Buzz.mp4" title="Title"></video>
+<video width="320" height="140" controls>
+  <source src="2——Setting3_V2C_1_male_to_male/Dubbing_Video_Raw/Toy@Buzz.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Reference
 
@@ -360,7 +368,10 @@ Text: "I thought you would understand."
 
 Raw Dubbing Video 
 
-<video controls src="3——Setting3_V2C_1_female_to_male/Dubbing_Video_Raw/Cloudy@Earl.mp4" title="Title">
+<video width="320" height="140" controls>
+  <source src="3——Setting3_V2C_1_female_to_male/Dubbing_Video_Raw/Cloudy@Earl.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Reference
 
