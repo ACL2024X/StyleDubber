@@ -375,7 +375,7 @@ Raw Dubbing Video
 
 Reference
 
-</video><video controls src="3——Setting3_V2C_1_female_to_male/Refenrece_audio/S16.mp4" title="Title"></video>
+<video controls src="3——Setting3_V2C_1_female_to_male/Refenrece_audio/S16.mp4" title="Title"></video>
 
 <table border="1">
     <tr>
